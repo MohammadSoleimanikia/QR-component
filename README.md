@@ -8,8 +8,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -18,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://mohammadsoleimanikia.github.io/QR-component/)
 
 ### Built with
 - Semantic HTML5 markup
@@ -28,5 +26,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Mohammad Soleimanikia](https://www.your-site.com)
+- Git Hub - [Mohammad Soleimanikia](https://github.com/MohammadSoleimanikia)
 - Frontend Mentor - [@MohammadSoleimanikia](https://www.frontendmentor.io/profile/MohammadSoleimanikia)
